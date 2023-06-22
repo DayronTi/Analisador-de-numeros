@@ -1,0 +1,48 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background: rgb(65, 41, 41);
+    font-family:Arial, Helvetica, sans-serif ;
+    color: white;
+}
+
+h1 {
+    margin: 30px 0px 30px 0px;
+    text-align: center;
+}
+
+#conteudo {
+    background-color: rgba(255, 255, 255, 0.492);
+    color: black;
+    margin: auto;
+    padding: 100px;
+    width: 350px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 100px black;
+    text-align: justify;
+}
+
+#fnum {
+    width: 230px;
+}
+
+#botao {
+    color: rgba(255, 255, 255, 0.752);
+    padding: 5px 10px;
+    background: rgb(94, 67, 67);
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+#flista {
+    margin-top: 15PX;
+    width: 300px;
+}
+
+
+
